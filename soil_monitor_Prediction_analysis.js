@@ -1,5 +1,5 @@
 setChartLibrary('google-chart');
-setChartTitle('Polynomial Regression');
+setChartTitle('Soil_Moisture_Polynomial Regression');
 setChartType('predictionGraph');
 setAxisName('time_stamp','soil');
 mul(0.0977);
